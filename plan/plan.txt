@@ -1,0 +1,31 @@
+Wczytanie i Przygotowanie Danych:
+
+Wczytaj dane z plików CSV do struktury pandas DataFrame.
+Upewnij się, że dane są prawidłowo sformatowane i dostosuj typy kolumn, jeśli to konieczne.
+Zidentyfikuj, czy są jakieś brakujące dane i zdecyduj, jak je obsłużyć.
+Analiza Rentowności:
+
+Oblicz kluczowe wskaźniki rentowności, takie jak ROE (Return on Equity) czy ROS (Return on Sales), dla każdej spółki.
+Porównaj rentowność między spółkami.
+Stwórz wykresy liniowe, aby zobaczyć, jak kształtowała się rentowność każdej spółki od 2016 roku.
+Dodatkowe Wskaźniki i Porównania:
+
+Dodaj dodatkowe wskaźniki, takie jak zadłużenie, rotacja aktywów, czy marża zysku brutto, aby uzyskać bardziej kompleksową analizę.
+Porównaj wyniki z branżą HoReCa z wynikami spółek z innych branż, aby zidentyfikować ewentualne trendy czy różnice.
+Analiza Trendów Czasowych:
+
+Stwórz wykresy liniowe dla kluczowych wskaźników finansowych, aby zobaczyć, jak się zmieniały w czasie.
+Zidentyfikuj ewentualne punkty zwrotne lub okresy, w których rentowność znacząco się zmieniała.
+Wpływ Zdarzeń Zewnętrznych:
+
+Opracuj wykresy kolumnowe, które przedstawiają wybrane wskaźniki w kontekście kluczowych zdarzeń zewnętrznych, takich jak pandemia COVID-19 czy wojna.
+Zidentyfikuj, czy te zdarzenia miały istotny wpływ na rentowność spółek.
+Prognoza i Modele:
+
+Skonsultuj się z ekspertem branżowym w celu wybrania odpowiednich wskaźników do prognozowania.
+Wypróbuj różne modele prognozowe, takie jak regresja liniowa, ARIMA czy modele maszynowe.
+Zwizualizuj prognozy i porównaj je z rzeczywistymi wynikami.
+Dodatkowe Funkcje (Opcjonalnie):
+
+Jeśli zdecydujesz się na interaktywność, skorzystaj z narzędzi takich jak Plotly czy Dash, aby stworzyć dynamiczne wykresy czy dashboardy.
+Dodaj funkcje interaktywne dla porównań między spółkami czy branżami.
